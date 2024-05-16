@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilder_ZD1", "obrasciStvaranja_DZ4\Bilder_ZD1.csproj", "{4896B14F-C9CF-48DB-B450-27B8841C1128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tvornica_ZD2", "Tvornica_ZD2\Tvornica_ZD2.csproj", "{2BA05FAD-1B9C-4285-9D1A-67A856D2558D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4896B14F-C9CF-48DB-B450-27B8841C1128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4896B14F-C9CF-48DB-B450-27B8841C1128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4896B14F-C9CF-48DB-B450-27B8841C1128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4896B14F-C9CF-48DB-B450-27B8841C1128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA05FAD-1B9C-4285-9D1A-67A856D2558D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA05FAD-1B9C-4285-9D1A-67A856D2558D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA05FAD-1B9C-4285-9D1A-67A856D2558D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA05FAD-1B9C-4285-9D1A-67A856D2558D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73BF230C-FC44-4188-A890-0710BF84F8D0}
+	EndGlobalSection
+EndGlobal
